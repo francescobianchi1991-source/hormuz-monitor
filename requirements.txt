@@ -1,0 +1,8 @@
+streamlit
+plotly
+pandas
+numpy
+scipy
+yfinance
+openpyxl
+websockets
